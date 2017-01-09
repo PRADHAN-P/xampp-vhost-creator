@@ -4,7 +4,7 @@ e.g. C:/xampp
 
 And run the batch file as administrator.
 
-Enter your project name *(Project name should be inside the  C:/xampp/htdocs)*
+Enter your project name *(Project folder should be inside the  C:/xampp/htdocs)*
 
 Enter your desired virtual localhost name
 
